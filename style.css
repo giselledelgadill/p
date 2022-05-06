@@ -1,0 +1,19 @@
+body
+{
+	text-align: center;
+	background-image: url("shy guy.jpeg");
+	background-size: cover;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
+h3{
+	color: green;
+}
